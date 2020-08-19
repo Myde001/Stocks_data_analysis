@@ -15,12 +15,12 @@ Note: You'll need to install pandas-datareader for this to work! Pandas dataread
 # Data
 We need to get data using pandas datareader. We will get stock information for the following banks:
 
-Bank of America
-CitiGroup
-Goldman Sachs
-JPMorgan Chase
-Morgan Stanley
-Wells Fargo
+Bank of America, 
+CitiGroup, 
+Goldman Sachs, 
+JPMorgan Chase, 
+Morgan Stanley, 
+Wells Fargo.
 
 ** Figure out how to get the stock data from Jan 1st 2006 to Jan 1st 2016 for each of these banks. Set each bank to be a separate dataframe, with the variable name for that bank being its ticker symbol. This will involve a few steps:**
 
