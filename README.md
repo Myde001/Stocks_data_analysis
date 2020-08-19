@@ -6,13 +6,13 @@ In this data project we will focus on exploratory data analysis of stock prices.
 
 We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
 
-#Get the Data
+# Get the Data
 In this section we will learn how to use pandas to directly read data from Google finance using pandas!
 
 Note: You'll need to install pandas-datareader for this to work! Pandas datareader allows you to read stock information directly from the internet Use these links for install guidance (pip install pandas-datareader).
 
 
-#Data
+# Data
 We need to get data using pandas datareader. We will get stock information for the following banks:
 
 Bank of America
