@@ -22,11 +22,8 @@ JPMorgan Chase,
 Morgan Stanley, 
 Wells Fargo.
 
-** Figure out how to get the stock data from Jan 1st 2006 to Jan 1st 2016 for each of these banks. Set each bank to be a separate dataframe, with the variable name for that bank being its ticker symbol. This will involve a few steps:**
-
 Use datetime to set start and end datetime objects.
-Figure out the ticker symbol for each bank.
-Figure out how to use datareader to grab info on the stock.
+
 ** Use [this documentation page](https://pandas-datareader.readthedocs.io/en/latest/remote_data.html) for hints and instructions (it should just be a matter of replacing certain values. Use google finance as a source, for example:**
 
 # Bank of America
